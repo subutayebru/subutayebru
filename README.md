@@ -27,7 +27,6 @@
 ## ✉️ Let's Connect  
 - 📫 **Email:** subutayebru@gmail.com  
 - 🔗 **LinkedIn:** [linkedin.com/in/ebru-subutay](https://linkedin.com/in/ebru-subutay)  
-- 🌍 **Website:** [subutayebru.github.io](https://subutayebru.github.io)
 
 ---
 
