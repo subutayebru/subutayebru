@@ -1,5 +1,4 @@
-## Hi there 👋
-# 👋 Hi, I'm **Ebru Subutay**  
+# 👋 Hi there, I'm **Ebru**  
 *Robotics Engineer & Researcher passionate about Real-Time Perception and SLAM, everything bio-inspired and asynchronous!*
 
 ---
