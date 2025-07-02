@@ -13,12 +13,18 @@
 
 ## 🛠️ Tools & Tech
 
+| Category         | Technologies |
+|------------------|--------------|
 | **Languages**    | C++, Python, Java |
 | **Robotics**     | ROS1/ROS2, PX4, MAVROS, Vicon, OptiTrack, Gazebo |
 | **Perception**   | Event cameras (Inivation DAVIS, DVXplorer micro, Prophesee EVK4), LiDAR(Livox MID360), RGB-D(Intel RealSense D435i, D455, L515, T265, ZED2i) |
 | **ML/DL**        | PyTorch, TorchSNN, OpenCV, CUDA |
 | **3D Mapping**   | ORB-SLAM3, UltimateSLAM, Gaussian Splatting, NeRF |
 | **Embedded**     | NVIDIA Jetson (Orin,Nano), Docker |
+
+---
+
+
 
 ---
 
