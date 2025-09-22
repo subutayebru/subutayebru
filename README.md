@@ -4,7 +4,7 @@
 ---
 
 ## 🌱 About Me  
-- Research Assistant in real-time robotic perception at Paderborn University (SHEREC Project).  
+- Researcher in real-time robotic perception.  
 - Previously at TU Berlin’s Robotic Interactive Perception Lab, I wrote my MSc thesis focusing on **event-based and depth sensor fusion for ego-motion estimation**.  
 - I love building systems that run on embedded platforms, especially for **drones** and **autonomous navigation**.  
 - Currently, exploring **spiking neural networks**, **event-based SLAM**, and **Gaussian Splatting** for dense 3D mapping.
